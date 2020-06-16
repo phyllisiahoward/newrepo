@@ -1,0 +1,11 @@
+Today's date?
+Thursday
+Breakfast calories?
+100
+Lunch calories?
+200
+Dinner calories?
+300
+Snack calories?
+400
+Calorie content for Thursday: 1000
